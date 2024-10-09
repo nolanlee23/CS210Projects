@@ -1,2 +1,2 @@
-# CS210Projects
-Collection of C++ assignments for CS210: Data Structures &amp; Algorithms
+# DataStructuresProjects
+Collection of C++ assignments for Data Structures &amp; Algorithms
